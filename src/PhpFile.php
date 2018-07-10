@@ -1,6 +1,6 @@
 <?php
 
-namespace Greeflas\SyntaxMigrator;
+namespace Snegovoy\SyntaxMigrator;
 
 /**
  * PHP file reader/writer.
