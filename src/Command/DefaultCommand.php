@@ -1,9 +1,9 @@
 <?php
 
-namespace Greeflas\SyntaxMigrator\Command;
+namespace Snegovoy\SyntaxMigrator\Command;
 
-use  Greeflas\SyntaxMigrator\PhpFile;
-use  Greeflas\SyntaxMigrator\PhpFileInfo;
+use  Snegovoy\SyntaxMigrator\PhpFile;
+use  Snegovoy\SyntaxMigrator\PhpFileInfo;
 use Symfony\Component\Console\Command\Command;
 use Symfony\Component\Console\Input\{
     InputArgument, InputInterface
