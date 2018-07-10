@@ -1,6 +1,6 @@
 <?php
 
-namespace Greeflas\SyntaxMigrator;
+namespace Snegovoy\SyntaxMigrator;
 
 use phpDocumentor\Reflection\DocBlock;
 use phpDocumentor\Reflection\DocBlockFactory;
@@ -8,7 +8,7 @@ use phpDocumentor\Reflection\DocBlockFactory;
 /**
  * Provides some info about PHP class.
  *
- * @author Vladimir Kuprienko <vldmr.kuprienko@gmail.com>
+ * @author Snegovoy <snegovoy.aleksandro@gmail.com>
  * @since 1.0
  */
 class PhpFileInfo
