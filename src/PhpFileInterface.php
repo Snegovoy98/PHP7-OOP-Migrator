@@ -1,11 +1,11 @@
 <?php
 
-namespace Greeflas\SyntaxMigrator;
+namespace Snegovoy\SyntaxMigrator;
 
 /**
  * Interface for PHP file.
  *
- * @author Vladimir Kuprienko <vldmr.kuprienko@gmail.com>
+ * @author Snegovoy Alex<snegovoy.aleksandr@gmail.com>
  * @since 1.0
  */
 interface PhpFileInterface
